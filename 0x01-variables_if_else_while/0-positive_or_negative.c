@@ -4,7 +4,7 @@
 
 /* more headers goes there */
 
-/**
+/*
  * main - entry point
  *
  * Return: returns 0 if successful
